@@ -25,7 +25,7 @@ Greetings! I'm Aslam, the Co-Founder and Chief Technology Officer at TrickyDot T
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table style="border:none;"><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working at TrickyDot Technologies  
   
@@ -37,10 +37,6 @@ Greetings! I'm Aslam, the Co-Founder and Chief Technology Officer at TrickyDot T
   
 
 - ⚡ I'm eager to know about all stuffs  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
