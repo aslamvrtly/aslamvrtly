@@ -57,13 +57,11 @@ Greetings! I'm Aslam, the Co-Founder and Chief Technology Officer at TrickyDot T
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="35" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="35" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="35" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="35" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="35" /></a>  
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="35" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="35" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>  
-<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="35" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="35" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="35" /></a>  
