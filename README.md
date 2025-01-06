@@ -24,7 +24,7 @@ Greetings! I'm Aslam, the Co-Founder and Chief Technology Officer at TrickyDot T
 <br/>  
 
 
-## Rapidfire  
+## 🔥 Rapidfire  
 
 - 🔭 I’m currently working at TrickyDot Technologies  
   
@@ -40,7 +40,7 @@ Greetings! I'm Aslam, the Co-Founder and Chief Technology Officer at TrickyDot T
 
 <br/>  
 
-## Languages and Tools  
+## ⚡️ Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" /></a>  
@@ -97,7 +97,7 @@ Greetings! I'm Aslam, the Co-Founder and Chief Technology Officer at TrickyDot T
 <br/>  
 
 
-## Github Stats  
+## 🌟 Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aslamvrtly&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
