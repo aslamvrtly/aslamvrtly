@@ -62,7 +62,7 @@ Greetings! I'm Aslam, the Co-Founder and Chief Technology Officer at TrickyDot T
 
 ### 🧠 Backend / Databases
 
-| ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs) | ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django) | ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) |
+| ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django) | ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) |
 |---|---|---|---|
 | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) | ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql) | ![XAMPP](https://img.shields.io/badge/-XAMPP-black?style=flat-square&logo=xampp) |
 
